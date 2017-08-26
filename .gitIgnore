@@ -1,0 +1,11 @@
+![Bb]in/
+[Bb]in/*
+![Bb]in/release*
+![Bb]in/release*/**
+
+#include the resources folder
+!resources/includes/*
+
+#make sure to ignore "notes"
+resources/includes/notes.txt
+
