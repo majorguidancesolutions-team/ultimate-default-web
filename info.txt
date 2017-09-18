@@ -17,3 +17,5 @@ Commit #8 during squash activity
 Commit #9 during squash activity
 
 Commit #10 during squash activity
+
+Commit #11 during squash activity
