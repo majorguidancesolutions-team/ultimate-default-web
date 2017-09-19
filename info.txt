@@ -29,3 +29,5 @@ Commit #14 - Started rebase dev 2 commit 1
 Commit #15 - Started rebase dev 2 commit 2
 
 Commit #16 - This is from dev 2 making a bug fix change
+
+Commit #17 - Developer 1 working on the bug fix
