@@ -1,1 +1,3 @@
 simple message
+
+commit #2 during squash activity
