@@ -6,4 +6,18 @@ Commit #3 during squash activity
 
 Commit #4 during squash activity
 
+Commit #5 during squash activity
 
+Commit #6 during squash activity
+
+Commit #7 during squash activity
+
+Commit #8 during squash activity
+
+Commit #5b during squash activity
+
+Commit #6b during squash activity
+
+Commit #7b during squash activity
+
+Commit #8b during squash activity
