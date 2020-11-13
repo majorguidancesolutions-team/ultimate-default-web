@@ -56,4 +56,10 @@ Commit #16 This is from dev 2 making a bug fix change
 
 Commit #17 - Developer 1 working on the bug fix
 
+Commit #18 squash locam commit 1
 
+Commit #19 squash locam commit 2
+
+Commit #20 squash locam commit 3
+
+Commit #21 squash locam commit 4
