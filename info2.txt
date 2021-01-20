@@ -1,0 +1,7 @@
+A great way to make your page better!
+
+commit 2 during squash activity
+
+commit 3 during squash
+
+commit 4 during squash
