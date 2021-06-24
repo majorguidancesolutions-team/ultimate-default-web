@@ -4,6 +4,8 @@ xzxxx
 
 commit next after xzxxx
 
+nastepny komit chyba ostatni
+
 Commit #2 during squash activity
 
 Commit #3 during squash activity
