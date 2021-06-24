@@ -2,6 +2,8 @@ This is a critical message that I'm going to ammend into the previous commit alo
 
 xzxxx
 
+commit next after xzxxx
+
 Commit #2 during squash activity
 
 Commit #3 during squash activity
