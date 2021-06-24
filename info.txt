@@ -1,4 +1,10 @@
-This is a critical message that I'm going to ammend into the previous commit along with this new file.
+This is a critical message that I'm going to ammend into the previous commit along with this new file. v4554
+
+xzxxx
+
+commit next after xzxxx
+
+nastepny komit chyba ostatni
 
 Commit #2 during squash activity
 
