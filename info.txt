@@ -12,13 +12,13 @@ Commit #3 during squash activity
 
 Commit #4 during squash activity
 
-Commit #5 during squash activity
+Commit #5 during squash activity 1
 
-Commit #6 during squash activity
+Commit #6 during squash activity 2
 
-Commit #7 during squash activity
+Commit #7 during squash activity 3
 
-Commit #8 during squash activity
+Commit #8 during squash activity 4
 
 Commit #9 during squash activity
 
