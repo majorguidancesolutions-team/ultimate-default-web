@@ -25,3 +25,5 @@ Commit #12 durring squash activity
 Commit #13 durring squash activity
 
 Commit #14 rebase things
+
+Commit #15 rebase things part two
