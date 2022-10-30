@@ -1,3 +1,5 @@
 this is a critical message I'm going to ammend into the prevoius commit along with this new file
 
 Commit #2 during squash activity
+
+Commit #3 during squash activity
