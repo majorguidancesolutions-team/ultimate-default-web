@@ -3,6 +3,10 @@
 ![Bb]in/release*
 ![Bb]in/release*/**
 
+.idea
+package-lock.json
+node_modules
+
 #include the resources folder
 !resources/includes/*
 
