@@ -2,4 +2,8 @@ This is a major file which is to be comitted with the other commits.
 
 Make the commit #2
 
+Make the commit #3
+
+Make the commit #4
+
 
